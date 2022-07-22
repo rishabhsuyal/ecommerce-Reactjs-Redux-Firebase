@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ecommerce-Reactjs-Redux-Firebase/static/css/main.c51b04e2.chunk.css",
-    "main.js": "/ecommerce-Reactjs-Redux-Firebase/static/js/main.f902ae70.chunk.js",
-    "main.js.map": "/ecommerce-Reactjs-Redux-Firebase/static/js/main.f902ae70.chunk.js.map",
-    "runtime-main.js": "/ecommerce-Reactjs-Redux-Firebase/static/js/runtime-main.71877f2d.js",
-    "runtime-main.js.map": "/ecommerce-Reactjs-Redux-Firebase/static/js/runtime-main.71877f2d.js.map",
-    "static/js/2.a1d52383.chunk.js": "/ecommerce-Reactjs-Redux-Firebase/static/js/2.a1d52383.chunk.js",
-    "static/js/2.a1d52383.chunk.js.map": "/ecommerce-Reactjs-Redux-Firebase/static/js/2.a1d52383.chunk.js.map",
-    "index.html": "/ecommerce-Reactjs-Redux-Firebase/index.html",
-    "static/css/main.c51b04e2.chunk.css.map": "/ecommerce-Reactjs-Redux-Firebase/static/css/main.c51b04e2.chunk.css.map",
-    "static/js/2.a1d52383.chunk.js.LICENSE.txt": "/ecommerce-Reactjs-Redux-Firebase/static/js/2.a1d52383.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/ecommerce-Reactjs-Redux-Firebase/static/media/crown.3a4e2b15.svg",
-    "static/media/icon-bag.a688874f.svg": "/ecommerce-Reactjs-Redux-Firebase/static/media/icon-bag.a688874f.svg"
+    "main.css": "/ecommerceplatform/static/css/main.c51b04e2.chunk.css",
+    "main.js": "/ecommerceplatform/static/js/main.f902ae70.chunk.js",
+    "main.js.map": "/ecommerceplatform/static/js/main.f902ae70.chunk.js.map",
+    "runtime-main.js": "/ecommerceplatform/static/js/runtime-main.0135b2f3.js",
+    "runtime-main.js.map": "/ecommerceplatform/static/js/runtime-main.0135b2f3.js.map",
+    "static/js/2.f8dc7f11.chunk.js": "/ecommerceplatform/static/js/2.f8dc7f11.chunk.js",
+    "static/js/2.f8dc7f11.chunk.js.map": "/ecommerceplatform/static/js/2.f8dc7f11.chunk.js.map",
+    "index.html": "/ecommerceplatform/index.html",
+    "static/css/main.c51b04e2.chunk.css.map": "/ecommerceplatform/static/css/main.c51b04e2.chunk.css.map",
+    "static/js/2.f8dc7f11.chunk.js.LICENSE.txt": "/ecommerceplatform/static/js/2.f8dc7f11.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/ecommerceplatform/static/media/crown.3a4e2b15.svg",
+    "static/media/icon-bag.a688874f.svg": "/ecommerceplatform/static/media/icon-bag.a688874f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.71877f2d.js",
-    "static/js/2.a1d52383.chunk.js",
+    "static/js/runtime-main.0135b2f3.js",
+    "static/js/2.f8dc7f11.chunk.js",
     "static/css/main.c51b04e2.chunk.css",
     "static/js/main.f902ae70.chunk.js"
   ]
