@@ -26,7 +26,6 @@ function SignIn() {
         const {email,password}=input;
         try{
             auth.signInWithEmailAndPassword(email,password);
-            // history.push("/");
             setinput({
                 email:"",
                 password:""
